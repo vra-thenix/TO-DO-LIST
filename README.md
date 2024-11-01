@@ -3,13 +3,14 @@ this is a To-Do list code. Created with the help of html , css and js .
 
 
 
-#FEATURES
+# FEATURES
 
 ~ You can create as many to do list as you want.
+
 ~ easy to use.
 
 
-#REQUIREMENTS
+# REQUIREMENTS
 
 1. You need to use VS CODE to use this code.
 2. Download the file and unzip it.
