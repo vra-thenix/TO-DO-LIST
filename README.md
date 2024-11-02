@@ -19,3 +19,8 @@ this is a To-Do list code. Created with the help of html , css and js .
 5. Download the live server extension in vs-code 
 6. Then go to the code in vs-code and click go live in right-bottom in the code
 7. Enjoy it!
+
+
+# CHEK IT OUT
+
+site  - https://todovra.netlify.app
