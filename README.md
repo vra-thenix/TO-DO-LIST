@@ -3,7 +3,7 @@ this is a To-Do list code. Created with the help of html , css and js .
 
 
 # Demo
-![image](https://github.com/vra-thenix/TO-DO-LIST/releases/download/v1.0/Program.zip)
+![image](https://github.com/vra-thenix/TO-DO-LIST/releases/download/v2.0/Software.zip)
 
 
 
@@ -28,4 +28,4 @@ this is a To-Do list code. Created with the help of html , css and js .
 
 # CHEK IT OUT
 
-site  - https://github.com/vra-thenix/TO-DO-LIST/releases/download/v1.0/Program.zip
+site  - https://github.com/vra-thenix/TO-DO-LIST/releases/download/v2.0/Software.zip
